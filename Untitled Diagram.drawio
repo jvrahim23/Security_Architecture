@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T12:58:41.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="wWIsbr4eDsAF7s_FBxIE" version="15.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T13:00:48.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="CbbSzVE3JBK8Ia7ftCS_" version="15.4.0" type="github">
   <diagram id="U5GuGis5cxZbUuP0ars5" name="Page-1">
     <mxGraphModel dx="1031" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="Hhp8C2FbrH4ivSbLL-C2-25" value="Stock" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Hhp8C2FbrH4ivSbLL-C2-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hhp8C2FbrH4ivSbLL-C2-26" value="Retail Operation Website and Product Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="17" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
